@@ -307,7 +307,7 @@ get_granger_interactions <- function(sv, columns, cond_column = "", sig_level = 
 #' @param mfrow passed to [par()]
 #' @param mar passed to [par()]
 #' @param oma passed to [par()]
-#' @param ... passed through to [plot.igraph()]
+#' @param ... passed through to \link[igraph]{plot.igraph}
 #'
 #' @return data.frame of P-Values
 #' @export

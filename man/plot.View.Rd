@@ -13,7 +13,7 @@
 
 \item{maxpts}{maximum number of points to plot.}
 
-\item{...}{passed to \code{\link[=plot.zoo]{plot.zoo()}}}
+\item{...}{passed to \link[zoo]{plot.zoo}}
 }
 \value{
 a plot object.

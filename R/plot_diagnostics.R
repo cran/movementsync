@@ -70,7 +70,7 @@ plot.Metre <- function(x, ...) {
 #' @param x S3 object
 #' @param columns names of columns
 #' @param maxpts maximum number of points to plot.
-#' @param ... passed to [plot.zoo()]
+#' @param ... passed to \link[zoo]{plot.zoo}
 #' @return a plot object.
 #'
 #' @examples

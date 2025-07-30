@@ -15,7 +15,7 @@
 
 \item{oma}{passed to \code{\link[=par]{par()}}}
 
-\item{...}{passed through to \code{\link[=plot.igraph]{plot.igraph()}}}
+\item{...}{passed through to \link[igraph]{plot.igraph}}
 }
 \value{
 data.frame of P-Values

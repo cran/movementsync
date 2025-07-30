@@ -28,11 +28,11 @@ Other data functions:
 \code{\link{get_joined_view}()},
 \code{\link{get_metre_data}()},
 \code{\link{get_onsets_selected_data}()},
-\code{\link{get_processed_views}()},
 \code{\link{get_processed_view}()},
+\code{\link{get_processed_views}()},
 \code{\link{get_raw_optflow_view}()},
-\code{\link{get_raw_views}()},
 \code{\link{get_raw_view}()},
+\code{\link{get_raw_views}()},
 \code{\link{get_recording}()}
 }
 \concept{data functions}

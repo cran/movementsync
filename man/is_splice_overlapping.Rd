@@ -27,12 +27,12 @@ Other splicing functions:
 \code{\link{clip_splice}()},
 \code{\link{get_spliced_view}()},
 \code{\link{merge_splice}()},
+\code{\link{splice_time}()},
 \code{\link{splice_time.Duration}()},
 \code{\link{splice_time.Metre}()},
 \code{\link{splice_time.OnsetsDifference}()},
 \code{\link{splice_time.View}()},
 \code{\link{splice_time.list}()},
-\code{\link{splice_time}()},
 \code{\link{split.SplicedView}()}
 }
 \concept{splicing functions}

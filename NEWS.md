@@ -1,3 +1,7 @@
+# movementsync 0.1.5
+
+* Fixed Help file cross-references. 
+
 # movementsync 0.1.4
 
 * Appropriate labelling of the time objects with `hms::as_hms` (min:sec) and various labelling issues. 
